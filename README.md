@@ -8,7 +8,7 @@ Nordic-bluish
 
 # i3 
 透明引擎
-picom
++ picom
 
 fcitx5输入法
 修改~/.xprofile
@@ -19,5 +19,8 @@ fcitx5输入法
   export XMODIFIERS="@im=fcitx"
   fcitx5 &
 ```
+
++ rofi
+
 
 
