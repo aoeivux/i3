@@ -6,5 +6,18 @@
 + kde主题
 Nordic-bluish
 
+# i3 
+透明引擎
+picom
+
+fcitx5输入法
+修改~/.xprofile
+
+```shell
+  export QT_IM_MODULE=fcitx
+  export GTK_IM_MODULE=fcitx
+  export XMODIFIERS="@im=fcitx"
+  fcitx5 &
+```
 
 
