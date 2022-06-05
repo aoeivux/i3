@@ -20,7 +20,25 @@ fcitx5输入法
   fcitx5 &
 ```
 
+menu菜单
 + rofi
+
+网络工具，基础
++ networkmanager
+
++ 图形化的管理工具
+nm-connection-editor
+
++ 系统托盘工具
+network-manager-applet
+
+
+```shell
+systemctl enable networkmanager.service
+systemctl start networkmanager.service
+```
+
+
 
 
 
